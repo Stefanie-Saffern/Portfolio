@@ -24,14 +24,6 @@ Improved user success rates by restructuring troubleshooting flows and creating 
 
 ---
 
-## API Onboarding Redesign
-Created a streamlined onboarding experience for developers integrating with a REST API, including quickstart guides and error‑handling documentation.  
-**Role:** Technical Writer  
-**Tools:** Markdown, GitHub, Swagger  
-[View Case Study →](case-study-api-onboarding.md)
-
----
-
 ## Mobile App User Guide
 Developed a comprehensive user guide for a cross‑platform mobile app, covering setup, navigation, and advanced features.  
 **Role:** Technical Writer  
@@ -43,20 +35,29 @@ Developed a comprehensive user guide for a cross‑platform mobile app, covering
 # What I Do
 
 ## Documentation Types
-- Knowledge bases  
-- User guides  
-- API documentation  
-- Troubleshooting flows  
-- Release notes  
-- Product onboarding  
+- User Guides  
+- System Solutions Guides  
+- Support Kits  
+- CLI Procedures  
+- Knowledge Base Topics  
+- UI Microcopy  
+- Video Scripts  
+- Datasheets  
+- Troubleshooting Resources  
+- Release Notes  
+- Third‑Party Integrations Guides  
+- SOAR Playbook Documentation  
+
 
 ## Tools & Technologies
+- Paligo
+- MadCap Flare
+- Adobe Acrobat Pro
 - Markdown  
-- Git / GitHub  
+- GitHub  
 - Confluence  
 - Jira  
-- Swagger / OpenAPI  
-- Snagit / Figma  
+- Snagit / Figma / Lucidchart
 
 ## Core Strengths
 - Information architecture  
