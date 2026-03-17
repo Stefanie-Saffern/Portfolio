@@ -1,7 +1,8 @@
 title: "Your Portfolio"
 description: "Technical writing portfolio built with GitHub Pages."
-theme: "just-the-docs"
 
-url: "https://YOUR-USERNAME.github.io/portfolio"
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://stefsaffern.github.io/Portfolio"
 
 search_enabled: true
