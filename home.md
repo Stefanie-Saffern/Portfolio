@@ -60,8 +60,8 @@ Developed a comprehensive user guide for a cross‑platform mobile app, covering
 - Snagit / Figma / Lucidchart
 
 ## Core Strengths
-- Information architecture  
+- Information architecture
+- Gap analysis
 - SME collaboration  
 - Content strategy  
 - Structured authoring  
-- Accessibility‑focused writing  
