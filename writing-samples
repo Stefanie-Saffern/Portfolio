@@ -1,0 +1,63 @@
+---
+title: Documentation Samples
+nav_order: 3
+---
+
+# Documentation Samples
+
+Below is a curated selection of my technical writing work, including knowledge bases, user guides, API documentation, and onboarding flows. Each sample highlights my approach to clarity, structure, and user‑focused content design.
+
+---
+
+## Payment Portal Knowledge Base
+Restructured the entire troubleshooting flow, added step‑by‑step guides, and improved searchability through clearer taxonomy and metadata.
+
+**Type:** Knowledge Base  
+**Role:** Technical Writer  
+**Tools:** Confluence, Jira  
+[View Case Study →](case-study-payment-portal.md)
+
+---
+
+## API Onboarding Guide
+Created a streamlined onboarding experience for developers integrating with a REST API. Included quickstart guides, authentication walkthroughs, and error‑handling documentation.
+
+**Type:** API Documentation  
+**Role:** Technical Writer  
+**Tools:** Markdown, GitHub, Swagger  
+[View Case Study →](case-study-api-onboarding.md)
+
+---
+
+## Mobile App User Guide
+Developed a comprehensive user guide for a cross‑platform mobile app, covering setup, navigation, and advanced features.
+
+**Type:** User Guide  
+**Role:** Technical Writer  
+**Tools:** Figma, Snagit  
+[View Case Study →](case-study-mobile-app.md)
+
+---
+
+## Release Notes & Product Updates
+Produced clear, concise release notes for product launches and feature updates, ensuring users and internal teams understood changes and impacts.
+
+**Type:** Release Notes  
+**Role:** Technical Writer  
+**Tools:** Jira, Confluence  
+*(Case study available upon request)*
+
+---
+
+## Troubleshooting Flow Redesign
+Mapped user pain points, collaborated with SMEs, and rebuilt troubleshooting content to reduce support tickets and improve self‑service success.
+
+**Type:** Troubleshooting Documentation  
+**Role:** Technical Writer  
+**Tools:** Confluence, UX Research  
+*(Case study available upon request)*
+
+---
+
+If you'd like to explore more details, visit my  
+[Featured Projects](index.md){: .btn .btn-primary }
